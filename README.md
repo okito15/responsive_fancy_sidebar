@@ -1,1 +1,1 @@
-https://okito15.github.io/responsive_fancy_sidebar
+https://okan-seid.github.io/responsive_fancy_sidebar
